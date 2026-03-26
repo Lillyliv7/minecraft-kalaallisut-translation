@@ -1,0 +1,13 @@
+{
+   "pack": {
+      "pack_format": 15,
+      "description": "Kalaallisuumut Nutsigaq"
+   },
+  "language": {
+    "kl_gl": {
+      "name": "Kalaallisut",
+      "region": "Kalaallit Nunaat",
+      "bidirectional": false
+    }
+  }
+}
